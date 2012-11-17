@@ -2,7 +2,7 @@ package com.example.geotrack;
 
 /* This is the final exercise for TIES425 Programming for Mobile Terminals.
  *                                                             ZhangHan
- *                                            zhangsansan99@hotmail.com     */
+ *                                             zhanghan.z.h@hotmail.com     */
 
 import java.util.List;
 
